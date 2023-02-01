@@ -22,7 +22,7 @@
 				<version>3.0.0-M3</version>
 				<configuration>
 					<includes>
-						<include>**/*OrangeHRMRunner.java</include>
+						<include>**/*GreenKartRunner.java</include>
 					</includes>
 				</configuration>
 				<executions>
